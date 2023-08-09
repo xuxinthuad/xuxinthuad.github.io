@@ -1,10 +1,10 @@
 # Site settings
-title: Shinn Xu Blog
-SEOTitle: 徐鑫的博客 | Shinn Xu Blog
+title: Xu Xin Blog
+SEOTitle: 徐鑫的博客 | Xu Xin Blog
 header-img: img/home-bg.jpg
 email: xuxinthu@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+description: "这里是 @Xu_Xin徐鑫 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
+keyword: "徐鑫, Xu_Xin徐鑫, Xu_Xin, @Xu_Xin, 徐鑫的博客, Xu Xin Blog, 博客, 个人网站, 互联网, 自动驾驶, C++, 算法, 机器学习, 深度学习, 预测"
 url: "https://huangxuan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
